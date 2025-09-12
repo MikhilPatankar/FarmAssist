@@ -49,12 +49,6 @@ FarmAssist leverages a modern technology stack:
 
 ---
 
-## 🚀 Getting Started
-
-(This section will be updated as the project progresses)
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Whether it's bug fixes, feature development, documentation improvements, or data collection/annotation, your help is valuable.
