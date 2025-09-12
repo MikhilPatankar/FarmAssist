@@ -35,7 +35,7 @@ FarmAssist aims to be a farmer's best digital companion, offering:
     * *Hands-Free Operation:* Get information and perform actions conveniently while in the field.
      ![Voice Interface Demo](link/to/voice_interface.gif)
 ---
-## 💻 Tech Stack (Conceptual)
+## 💻 Tech Stack
 
 FarmAssist leverages a modern technology stack:
 
